@@ -7,7 +7,7 @@ This will be accomplished by contrasting two classes of proliferating Active Bro
 dependent replication rate(captures competition)
 
 ##Workflow
-- In order to understand the role of replication better, we will strip away the structure and look at the population evolution of the model.The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Brownian%20motion%20animation)
+- In order to understand the role of replication better, we will strip away the replication structure and look at the population evolution of the model.The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Brownian%20motion%20animation)
 - Now we are in a better spot to appreciate the spatial clustering observed in the proliferating brownian bug model(with periodic boundary condition and advection)
   The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Brownian%20model%20with%20proliferation%20and%20convection)
 - One might wonder if changing the periodic boundary condition to a reflective one might yield in a different evolution. Though the exact evolution will be different
