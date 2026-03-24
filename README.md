@@ -16,5 +16,9 @@ dependent replication rate(captures competition)
 - Now we are in a great position to compare the patterns observed in both the model.The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Main)
 
 This work is my take on understanding the SURF proposal(SURF conducted by IFISC Spain)"A simple model of active reproducing matter"
-
-
+##References:
+- a.)W. R. Young, A. J. Roberts, and G. Stuhne, “Reproductive pair correlations and the clustering
+of organisms,” Nature, vol. 412, pp. 328–331, July 2001.
+- b.)S. Takamura and N. Saito, “Spatially structured flocking in a proliferating population of self-
+propelled organisms without explicit alignment interactions,” Phys. Rev. Res., vol. 7, p. 033299,
+Sep 2025.
