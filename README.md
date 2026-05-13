@@ -6,7 +6,7 @@ GOAL: To understand the role of replication on the population structure.
 This will be accomplished by contrasting two classes of proliferating Active Brownian Bugs; One with a constant replication rate and other with a density 
 dependent replication rate(captures competition)
 
-##Workflow
+## Workflow
 - In order to understand the role of replication better, we will strip away the replication structure and look at the population evolution of the model.The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Brownian%20motion%20animation)
 - Now we are in a better spot to appreciate the spatial clustering observed in the proliferating brownian bug model(with periodic boundary condition and advection)
   The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Brownian%20model%20with%20proliferation%20and%20convection)
@@ -16,7 +16,7 @@ dependent replication rate(captures competition)
 - Now we are in a great position to compare the patterns observed in both the model.The code is [here](https://github.com/Karmukilan-S/Brownian-Bug-Model/blob/main/Main)
 
 This work is my take on understanding the SURF proposal(SURF conducted by IFISC Spain)"A simple model of active reproducing matter"
-##References:
+## References:
 - a.)W. R. Young, A. J. Roberts, and G. Stuhne, “Reproductive pair correlations and the clustering
 of organisms,” Nature, vol. 412, pp. 328–331, July 2001.
 - b.)S. Takamura and N. Saito, “Spatially structured flocking in a proliferating population of self-
